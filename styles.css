@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+/* Optional CSS styles to customize the modal */
+
+.modal-header {
+/*   background-color: #007bff; */
+  color: black;
+}
+
+.modal-body {
+  padding: 20px;
+}
+
+.modal-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.modal-footer button {
+  width: 45%;
+}
+.a{
+	border:2px solid red;
+	height:500px
+/* 	background-color:yello; */
+}
+.b{
+	border:2px solid red;
+	width:50%;
+	padding-right:50px;
+}
